@@ -1,4 +1,11 @@
-Course Syllabus for "HIST104: Historical Methodology: The Art and Craft of the Historian"
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit01
+previous: ../../../
+---
+Course Syllabus for "HIST104: Historical Methodology - The Art and Craft of the Historian"
 -----------------------------------------------------------------------------------------
 
 This course will introduce you to historical research methods and

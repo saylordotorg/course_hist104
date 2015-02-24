@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: What is History good for?** <span id="9"></span> 
 *<span>In this course, we have looked at what it means to be a historian
 and conduct historical research.  We have evaluated research practices

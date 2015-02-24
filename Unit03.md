@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Research Challenges** <span id="3"></span> 
 *<span>Historical research can be challenging.  Sources may be difficult
 to understand or may appear contradictory.  Projects involving large

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Historiography** <span id="4"></span> 
 *Historians are influenced by the unique political, economic, social,
 and cultural contexts of their lives.  ‘Consequently, historians have

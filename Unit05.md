@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Research Libraries** <span id="5"></span> 
 *<span>Research libraries are excellent locations for starting
 historical research projects.  These libraries generally contain books,

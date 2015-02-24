@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Basic Historical Research Skills** <span id="2"></span> 
 *Historians must employ basic research and writing skills in order to
 present information about the past to others.  Researchers should not

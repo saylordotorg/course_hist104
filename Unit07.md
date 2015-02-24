@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Electronic Research Tools** <span id="7"></span> 
 *<span>In recent years, the Internet has become a powerful tool for
 historical research.  In addition to hosting online catalogues for

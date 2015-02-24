@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: How to Use an Archive** <span id="6"></span> 
 *<span>Archives maintain collections of primary-source documents and
 historical objects.  Some archives house documents and objects from many

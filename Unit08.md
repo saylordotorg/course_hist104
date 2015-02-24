@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST104: Historical Methodology - The Art and Craft of the Historian"
+course_description: "A detailed study of the development of historical study as a distinct pursuit, focusing on historical research methods and the latest resources available to historians."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Other Historical Resources** <span id="8"></span> 
 *<span>Primary-source documents are an important resource for
 historians, but researchers have additional means at their disposal for
