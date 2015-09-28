@@ -76,3 +76,4 @@ computer.
 - [Unit 8](https://legacy.saylor.org/hist104/Unit08/)
 - [Unit 9](https://legacy.saylor.org/hist104/Unit09/)
 - [Unit 10](https://legacy.saylor.org/hist104/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST104/HIST104-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST104/HIST104-FinalExam-Answers.html)
