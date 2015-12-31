@@ -5,8 +5,16 @@ course_description: "A detailed study of the development of historical study as 
 next: ../Unit01
 previous: ../../../
 ---
-Course Syllabus for "HIST104: Historical Methodology - The Art and Craft of the Historian"
+Course Syllabus for "HIST104: Historical Methodology: The Art and Craft of the Historian"
 -----------------------------------------------------------------------------------------
+
+**Please note: this [legacy course](https://sayloracademy.zendesk.com/hc/en-us/articles/206089967) does not offer a certificate and may contain 
+broken links and outdated information.** Although archived, it is open 
+for learning without registration or enrollment. Please consider contributing 
+updates to [this course on GitHub](https://github.com/saylordotorg/course_hist104) 
+(you can also adopt, adapt, and distribute this course under the terms of 
+the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/)). **To find fully-supported, current courses, [visit our 
+Learn site](https://learn.saylor.org).**
 
 This course will introduce you to historical research methods and
 familiarize you with the tools and techniques that historians use to
@@ -61,4 +69,16 @@ computer.
   
  √    Be competent in the English language.  
   
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/hist104/Unit01/)
+- [Unit 2](https://legacy.saylor.org/hist104/Unit02/)
+- [Unit 3](https://legacy.saylor.org/hist104/Unit03/)
+- [Unit 4](https://legacy.saylor.org/hist104/Unit04/)
+- [Unit 5](https://legacy.saylor.org/hist104/Unit05/)
+- [Unit 6](https://legacy.saylor.org/hist104/Unit06/)
+- [Unit 7](https://legacy.saylor.org/hist104/Unit07/)
+- [Unit 8](https://legacy.saylor.org/hist104/Unit08/)
+- [Unit 9](https://legacy.saylor.org/hist104/Unit09/)
+- [Unit 10](https://legacy.saylor.org/hist104/Unit10/)
+- [Final Exam](http://saylordotorg.github.io/LegacyExams/HIST/HIST104/HIST104-FinalExam.html), [Answers](http://saylordotorg.github.io/LegacyExams/HIST/HIST104/HIST104-FinalExam-Answers.html)
