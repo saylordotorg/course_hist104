@@ -212,10 +212,10 @@ id="3.2.2"></span> 
     “Written Document,” “Photograph,” and “Artifact”**
     <span>Link: </span>The National Archives: “Document Analysis
     Worksheets:” “[Written
-    Document](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST104-3.2.2-written_document_analysis_worksheet.pdf),”
-    “[Photograph](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST104-3.2.2-photo_analysis_worksheet.pdf),”
+    Document](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-3.2.2-written_document_analysis_worksheet.pdf),”
+    “[Photograph](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-3.2.2-photo_analysis_worksheet.pdf),”
     and
-    “[Artifact](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST104-3.2.2-artifact_analysis_worksheet.pdf)”
+    “[Artifact](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-3.2.2-artifact_analysis_worksheet.pdf)”
     (PDF)  
         
      <span>Instructions: Review the “Written Document,” “Photograph,”
@@ -451,13 +451,13 @@ id="3.4.3"></span> 
 **End of Unit Assessment** <span id="3.7"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: Unit 3 Quiz”**
     Link: The Saylor Foundation’s “[HIST104: Unit 3
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2011/05/HIST104-Unit3Quiz.pdf)”
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit3Quiz.pdf)”
     (PDF)  
         
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation’s “[HIST104: Unit 3
     Quiz Answer
-    Key.](http://www.saylor.org/site/wp-content/uploads/2011/05/HIST104-Unit3QuizAnswerKey.pdf)”
+    Key.](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit3QuizAnswerKey.pdf)”
     (PDF)
 
 
