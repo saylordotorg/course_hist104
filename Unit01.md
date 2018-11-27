@@ -32,11 +32,11 @@ Upon completion of this unit, the student will be able to:
 -   **Reading: The Saylor Foundation's "The Proper Attitude," "Studying
     History," and "Writing History"**
      Link: The Saylor Foundation's "[The Proper
-    Attitude](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST104-1.1-ProperAttitude-FINAL.pdf)"
+    Attitude](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST104-1.1-ProperAttitude-FINAL.pdf)"
     (PDF), "[Studying
-    History](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST104-1.2-StudyingHistory-FINAL.pdf)"
+    History](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST104-1.2-StudyingHistory-FINAL.pdf)"
     (PDF), and "[Writing
-    History](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST104-1.3-WritingHistory-FINAL.pdf)"
+    History](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST104-1.3-WritingHistory-FINAL.pdf)"
     (PDF).  
       
      <span>Instructions: Read "The Proper Attitude," "Studying History,"
@@ -138,7 +138,7 @@ id="1.2.1"></span> 
 **1.2.2 A Search for Context and Meaning** <span id="1.2.2"></span> 
 -   **Reading: The Saylor Foundation’s “Historical Context”**
      Link: The Saylor Foundation’s [“Historical
-    Context”](http://www.saylor.org/site/wp-content/uploads/2012/07/HIST104-1.2.2-HistoricalContext-FINAL.pdf)
+    Context”](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST104-1.2.2-HistoricalContext-FINAL.pdf)
     (PDF)  
         
      Instructions: Read the article. Consider how the ideas behind
@@ -206,9 +206,9 @@ id="1.3"></span> 
 **Unit 1 Assessment** <span id="1.4"></span> 
 -   **Assessment: The Saylor Foundation’s “Unit 1 Quiz”**
      Link: The Saylor Foundation’s “[Unit 1
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2011/05/HIST104-Unit1Quiz.pdf)”
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit1Quiz.pdf)”
     (PDF) and “[Unit 1 Quiz Answer
-    Key](http://www.saylor.org/site/wp-content/uploads/2011/05/HIST104-Unit1QuizAnswerKey.pdf).”
+    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit1QuizAnswerKey.pdf).”
     (PDF)  
       
      Instructions: Complete the "Unit 1 Quiz". When you are done, check

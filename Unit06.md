@@ -41,7 +41,7 @@ Upon completion of this unit, the student will be able to:
 **6.1.2 General Preparation** <span id="6.1.2"></span> 
 -   **Reading: The National Archives: “Getting Started Overview”**
     Link: The National Archives: “[Getting Started
-    Overview](http://www.saylor.org/site/wp-content/uploads/2011/08/HIST104-6.1.2-Getting-Started-with-Research-at-the-National-Archives.pdf)”
+    Overview](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-6.1.2-Getting-Started-with-Research-at-the-National-Archives.pdf)”
     (PDF)  
         
      Instructions: Review the information by clinking on Steps 1-4 on
@@ -145,13 +145,13 @@ id="6.2.4"></span> 
 **End of Unit Assessment** <span id="6.3"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: Unit 6 Quiz”**
     Link: The Saylor Foundation’s “[HIST104: Unit 6
-    Quiz](http://www.saylor.org/site/wp-content/uploads/2011/05/HIST104-Unit6Quiz.pdf)”
+    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit6Quiz.pdf)”
     (PDF)  
         
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation’s “[HIST104: Unit 6
     Quiz Answer
-    Key.”](http://www.saylor.org/site/wp-content/uploads/2011/05/HIST104-Unit6QuizAnswerKey.pdf)
+    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit6QuizAnswerKey.pdf)
     (PDF)
 
 
