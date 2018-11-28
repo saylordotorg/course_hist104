@@ -250,26 +250,26 @@ id="9.3.1"></span> 
 **End of Unit Assessment** <span id="9.4"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: Unit 9 Quiz”**
     Link: The Saylor Foundation’s “[HIST104: Unit 9
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit9Quiz.pdf)”
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit9Quiz.pdf)”
     (PDF)  
         
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation’s “[HIST104: Unit 9
     Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit9QuizAnswerKey.pdf).”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit9QuizAnswerKey.pdf).”
     (PDF)
 
 **End of Course Assessment** <span id="9.5"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: End of Course Short
     Answer Quiz”**
     Link: The Saylor Foundation’s “[HIST104: End of Course Short Answer
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-End-of-Course-Short-Answer-Quiz.pdf)”
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-End-of-Course-Short-Answer-Quiz.pdf)”
     (PDF)  
         
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation’s “[HIST104: End of
     Course Short Answer Quiz Answer
-    Key.](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-EndofCourseShortAnswerQuizAnswerKey.pdf)”
+    Key.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-EndofCourseShortAnswerQuizAnswerKey.pdf)”
     (PDF)
 
 

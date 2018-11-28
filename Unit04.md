@@ -305,13 +305,13 @@ id="4.3.8"></span> 
 **End of Unit Assessment** <span id="4.4"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: Unit 4 Quiz”**
     Link: The Saylor Foundation’s “[HIST104: Unit 4
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit4Quiz.pdf)”
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit4Quiz.pdf)”
     (PDF)  
         
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation’s “[HIST104: Unit 4
     Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit4QuizAnswerKey.pdf).”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit4QuizAnswerKey.pdf).”
     (PDF)
 
 
