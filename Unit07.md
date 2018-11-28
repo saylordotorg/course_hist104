@@ -43,7 +43,7 @@ id="7.1.1"></span> 
 -   **Reading: The Saylor Foundation's “Research: Internet vs.
     Library”**
     Link: The Saylor Foundation's [“Research: Internet vs.
-    Library”](https://resources.saylor.org/archived/wp-content/uploads/2013/02/HIST104-7.1.1-Research-Internet-v-Library-FINAL.pdf)
+    Library”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/02/HIST104-7.1.1-Research-Internet-v-Library-FINAL.pdf)
     (PDF)  
         
      Instructions: Read this article, which explores the pros and cons
@@ -55,12 +55,12 @@ id="7.1.2"></span> 
     Internet Research Sources”**
     Link: VirtualSalt: Professor Robert Harris’s “[Evaluating Internet
     Research
-    Sources](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-7.1.2-VirtualSalt.pdf)”
+    Sources](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-7.1.2-VirtualSalt.pdf)”
     (PDF)  
       
      Also available in:   
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-7.1.2-VirtualSalt-Robert-Harris.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-7.1.2-VirtualSalt-Robert-Harris.epub)  
         
      Instructions: Read the article on the webpage.  
         
@@ -174,7 +174,7 @@ id="7.2.4"></span> 
     <span>Link: American Library Association’s “Reference and Use
     Services Association”: The Institution and Research Services
     Committee’s “</span>[<span>Using Primary Sources on the
-    Web</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-7.2.5-Using-Primary-Sources-on-the-Web.pdf)<span>”
+    Web</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-7.2.5-Using-Primary-Sources-on-the-Web.pdf)<span>”
     (PDF)</span>  
         
      <span>Instructions: Review the information on the webpage.</span>  
@@ -197,7 +197,7 @@ id="7.3"></span> 
     Media: “Research + Tools”**
     Link: The George Mason University Center for History and New Media:
     “[Research +
-    Tools](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-7.3.1-Research.pdf)”
+    Tools](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-7.3.1-Research.pdf)”
     (PDF)  
         
      Instructions: Review the information and links on the webpage.  
@@ -231,13 +231,13 @@ id="7.3"></span> 
 **End of Unit Assessment** <span id="7.4"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: Unit 7 Quiz”**
     Link: The Saylor Foundation’s “[HIST104: Unit 7
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit7Quiz.pdf)”
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit7Quiz.pdf)”
     (PDF)  
         
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation’s “[HIST104: Unit 7
     Quiz Answer
-    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit7QuizAnswerKey.pdf)
+    Key.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit7QuizAnswerKey.pdf)
     (PDF)
 
 

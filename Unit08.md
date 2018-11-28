@@ -34,11 +34,11 @@ Upon completion of this unit, the student will be able to:
 -   **Reading: DoHistory.org: Judith Moyer’s Step-by-Step Guide to Oral
     History**
     Link: DoHistory.org: Judith Moyer’s [Step-by-Step Guide to Oral
-    History ](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-8.pdf) (PDF)  
+    History ](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-8.pdf) (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-8-Judith-Moyer.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-8-Judith-Moyer.epub)  
       
      Instructions: Read the guide on the webpage.  
         
@@ -61,7 +61,7 @@ id="8.1.1"></span> 
 -   **Reading: The Saylor Foundation's "Interpreting and Using Oral
     History"**
     Links: The Saylor Foundation's "[Interpreting and Using Oral
-    History](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST104-8.1.1-Oral-History-FINAL.pdf)"
+    History](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST104-8.1.1-Oral-History-FINAL.pdf)"
     (PDF).  
         
      Instructions: Read "Interpreting and Using Oral History."  
@@ -208,12 +208,12 @@ id="8.1.2"></span> 
 **End of Unit Assessment** <span id="8.5"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: Unit 8 Quiz”**
     Link: The Saylor Foundation’s “[HIST104: Unit 8
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit7QuizAnswerKey.pdf)”
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit7QuizAnswerKey.pdf)”
     (PDF)  
         
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation’s “[HIST104: Unit 8
     Quiz Answer
-    Key.”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit8QuizAnswerKey.pdf) (PDF)
+    Key.”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit8QuizAnswerKey.pdf) (PDF)
 
 

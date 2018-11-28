@@ -44,16 +44,16 @@ Upon completion of this unit, the student will be able to:
     Critically about Research,” and “Chapter Ten: The Research Essay”**
     Link: Dr. Steven D. Krause’s The Process of Research Writing:
     “[Introduction: Why Write Research
-    Projects?](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.pdf);”
+    Projects?](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.pdf);”
     (PDF) “[Chapter One: Thinking Critically about
-    Research](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.pdf);”
+    Research](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.pdf);”
     (PDF) and “[Chapter Ten: The Research
-    Essay](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.pdf)”
+    Essay](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.pdf)”
     (PDF)  
         
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2-Stephen-D.-Krause.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2-Stephen-D.-Krause.epub)  
       
      Instructions: Read the Introduction, Chapter One, and Chapter Ten
     of Dr. Steven D. Krause’s textbook.  
@@ -80,7 +80,7 @@ Upon completion of this unit, the student will be able to:
 **2.1.1 Selecting a Topic** <span id="2.1.1"></span> 
 -   **Reading: The Saylor Foundation's "Research Essay"**
     Link: The Saylor Foundation's "[Research
-    Essay](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST104-2.1.1-ResearchEssay-FINAL.pdf)"
+    Essay](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST104-2.1.1-ResearchEssay-FINAL.pdf)"
     (PDF).  
         
      Instructions: Read "Research Essay."  
@@ -93,7 +93,7 @@ Questions** <span id="2.1.2"></span> 
 -   **Reading: The Saylor Foundation's "Research Essay: 'Imaging Your
     Topic'"**
     Link: The Saylor Foundation's "[Research Essay: 'Imaging Your
-    Topic](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST104-2.1.2-Research-Essay-FINAL.pdf)'"
+    Topic](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST104-2.1.2-Research-Essay-FINAL.pdf)'"
     (PDF).  
         
      Instructions: Read "Research Essay: 'Imaging Your Topic'" about
@@ -107,11 +107,11 @@ Questions** <span id="2.1.2"></span> 
     “Chapter Five: The Working Thesis Exercise”**
     Link: Dr. Steven D. Krause’s *The Process of Research Writing:*  
      <span>“</span>[<span>Chapter Five: The Working Thesis
-    Exercise</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.1.3.pdf)<span>” (PDF)</span>  
+    Exercise</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.1.3.pdf)<span>” (PDF)</span>  
       
      Also available in:  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.1.3-Chapter-Five-Steven-D.-Krause.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.1.3-Chapter-Five-Steven-D.-Krause.epub)  
         
      <span>Instructions: Read “Chapter Five: The Working Thesis
     Exercise.”</span>  
@@ -174,7 +174,7 @@ id="2.3"></span> 
     “Chapter 6: The Annotated Bibliography Exercise”**
     <span>Link: Dr. Steven D. Krause’s *The Process of Research
     Writing:* “</span>[<span>Chapter 6: The Annotated Bibliography
-    Exercise</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.3.1-Chapter-Six.pdf)<span>” (PDF)</span>  
+    Exercise</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.3.1-Chapter-Six.pdf)<span>” (PDF)</span>  
         
      <span>Instructions: Read “Chapter 6: The Annotated Bibliography
     Exercise.”</span>  
@@ -264,7 +264,7 @@ id="2.3"></span> 
 -   **Reading: The Saylor Foundation's “Taking Notes from Research
     Reading”**
     Link: The Saylor Foundation's “[Taking Notes from Research
-    Reading](https://resources.saylor.org/archived/wp-content/uploads/2012/07/HIST104-2.3.4-Research-Notes-FINAL.pdf)” (PDF)  
+    Reading](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/07/HIST104-2.3.4-Research-Notes-FINAL.pdf)” (PDF)  
         
      Instructions: Read "Taking Notes from Research Reading."  
         
@@ -315,12 +315,12 @@ id="2.4.1"></span> 
     “Chapter 11: Alternate Ways to Present Your Research”**
     Link: Dr. Steven D. Krause’s *The Process of Research
     Writing*: “[Chapter 11: Alternate Ways to Present Your
-    Research](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.4.1-Chapter-11.pdf)”
+    Research](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.4.1-Chapter-11.pdf)”
     (PDF)  
       
      Also available in:   
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.4.1-Chapter-Eleven-Steven-D.-Krause.epub)  
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.4.1-Chapter-Eleven-Steven-D.-Krause.epub)  
         
      Instructions: Read “Chapter 11: Alternate Ways to Present Your
     Research.”  
@@ -416,19 +416,19 @@ id="2.4.3"></span> 
     Writing:*</span>  
      <span>“</span>[<span>Chapter Three: Quoting, Paraphrasing, and
     Avoiding
-    Plagiarism</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.4.3-Chapter-3.pdf)<span>”
+    Plagiarism</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.4.3-Chapter-3.pdf)<span>”
     (PDF) and</span>  
      <span>“</span>[<span>Chapter Twelve: Citing Your Research Using MLA
     or APA
-    Style</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.4.3-Chapter-12.pdf)<span>”
+    Style</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.4.3-Chapter-12.pdf)<span>”
     (PDF)</span>  
       
      Also available in:   
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.4.3-Chapter-Three-Steven-D.-Krause.epub)
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.4.3-Chapter-Three-Steven-D.-Krause.epub)
     (Chapter Three)  
 
-    [EPUB](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-2.4.3-Chapter-12-Steven-D.-Krause.epub)
+    [EPUB](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-2.4.3-Chapter-12-Steven-D.-Krause.epub)
     (Chapter Twelve)  
         
      <span>Instructions: Read Chapter Three and Chapter Twelve.</span>  
@@ -540,12 +540,12 @@ id="2.4.3"></span> 
 **End of Unit Assessment** <span id="2.5"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: Unit 2 Quiz”**
     Link: The Saylor Foundation’s “[HIST104: Unit 2
-    Quiz”](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit2Quiz.pdf) (PDF)  
+    Quiz”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit2Quiz.pdf) (PDF)  
         
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation’s “[HIST104: Unit 2
     Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit2QuizAnswerKey.pdf).”
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit2QuizAnswerKey.pdf).”
     (PDF)
 
 

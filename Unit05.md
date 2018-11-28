@@ -43,7 +43,7 @@ Upon completion of this unit, the student will be able to:
 -   **Reading: The American Library Association: “Types of Libraries”**
     <span>Link: The American Library Association: “</span>[<span>Types
     of
-    Libraries</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-5.1.1.pdf)<span>”  (PDF)</span>  
+    Libraries</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-5.1.1.pdf)<span>”  (PDF)</span>  
         
      <span>Instructions: Read the article on the webpage.</span>  
         
@@ -75,7 +75,7 @@ id="5.1.3"></span> 
     Reference Shelf”**
     <span>Link: The Library of Congress’s *Ask a Librarian*:
     </span>[<span>“Virtual Reference
-    Shelf”</span> ](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-5.1.3-Virtual-Reference-Shelf.pdf) (PDF)  
+    Shelf”</span> ](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-5.1.3-Virtual-Reference-Shelf.pdf) (PDF)  
         
      <span>Instructions: Review the entire webpage.</span>  
         
@@ -114,7 +114,7 @@ id="5.1.3"></span> 
     Online Catalogues: WebCat”**
     <span>Link: Connexions: David Getman’s and Paula Sanders’s
     “</span>[<span>Searching Online Catalogues:
-    WebCat</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-5.2.1-.pdf)<span>”
+    WebCat</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-5.2.1-.pdf)<span>”
     (PDF)</span>  
         
      Also available in:  
@@ -156,7 +156,7 @@ id="5.1.3"></span> 
     Resources through Interlibrary Loan: Iliad”**
     <span>Link: Connexions: David Getman’s and Paula Sanders’
     “</span>[<span>Borrowing Resources through Interlibrary Loan:
-    Iliad</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-5.2.3.pdf)<span>”
+    Iliad</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-5.2.3.pdf)<span>”
     (PDF)</span>  
         
      <span>Also available in:</span>  
@@ -187,7 +187,7 @@ id="5.1.3"></span> 
     Research Using Microfiche, Microfilm, and Microcard”**
     <span>Link: Connexions: David Getman’s and Paula Sanders’
     “</span>[<span>Conducting Research Using Microfiche, Microfilm, and
-    Microcard</span>](https://resources.saylor.org/archived/wp-content/uploads/2011/08/HIST104-5.2.4-.pdf)<span>”
+    Microcard</span>](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/08/HIST104-5.2.4-.pdf)<span>”
     (PDF)</span>  
         
      <span>Also available in:</span>  
@@ -226,12 +226,12 @@ id="5.1.3"></span> 
 **End of Unit Assessment** <span id="5.3"></span> 
 -   **Assessment: The Saylor Foundation’s “HIST104: Unit 5 Quiz”**
     Link: The Saylor Foundation's [HIST104: Unit 5
-    Quiz](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit5Quiz.pdf) (PDF)  
+    Quiz](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit5Quiz.pdf) (PDF)  
       
      Instructions: Complete the linked quiz above.  When you are done,
     check your work against The Saylor Foundation's [HIST104: Unit 5
     Quiz Answer
-    Key](https://resources.saylor.org/archived/wp-content/uploads/2011/05/HIST104-Unit5QuizAnswerKey.pdf)
+    Key](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/05/HIST104-Unit5QuizAnswerKey.pdf)
     (PDF)
 
 
